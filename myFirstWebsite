@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <style>
+          h1{
+            color: blue;
+          }
+          
+          .Textblock1{
+            background-color: pink;
+            margin: 150px;
+          }
+      </style>
+    </head>
+    <body>
+      <h1>My first website</h1>
+      <h2>Textblock 1</h2>
+      <p class="Textblock1">Text...</p>
+      <h2>Textblock 2</h2>
+      <p>Text...</p>
+       
+    </body>
+</html>
